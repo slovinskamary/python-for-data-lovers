@@ -1,6 +1,7 @@
 # Consumer Behavior and Shopping Habits Analysis
+Author: Mariia Slovinska
+Date: [2025-03-25]
 
-## Project Overview
 This project explores consumer shopping behavior using a dataset containing demographic details, purchase history, and payment preferences. The goal is to derive meaningful insights into shopping habits, customer segmentation, and purchasing trends. The project demonstrates data analysis skills and proficiency with various tools.
 
 ## Tools & Technologies
@@ -15,7 +16,7 @@ The data for this project was sourced from the open resource Kaggle:
 Source: [Kaggle - Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)  
 Location: Kolkata, West Bengal, India
 
-## Key Insights
+## Insights
 - **Clothing is the most popular product category**, with the highest spending across both genders.
 - **Men spend more than women across all categories**, especially on Accessories and Clothing.
 - **Outerwear is the least popular category**, suggesting potential for targeted promotions.
