@@ -1,4 +1,4 @@
-# Consumer Behavior and Shopping Habits Analysis
+# Consumer Behavior and Shopping Habits Analysis 
 Author: Mariia Slovinska
 Date: [2025-03-25]
 
@@ -30,13 +30,16 @@ Location: Kolkata, West Bengal, India
 - **Increase Outerwear Interest** – Special offers or seasonal marketing strategies.
 - **Targeted Marketing** – Personalized campaigns based on age and gender segmentation.
 - **Improve Promo Code Engagement** – Encourage women to use promo codes through targeted promotions.
-- **Optimize Seasonal Promotions** – Focus marketing efforts on fall and winter when spending is highest.
+- **Optimize Seasonal Promotions** – Focus marketing efforts on fall and winter when sales are the lowest.
 
-## Interactive Dashboard
+## Dashboard
 Explore the findings interactively in the Tableau dashboard:
 [Shopping Behavior Analysis Dashboard](https://public.tableau.com/views/ShoppingAnalysis-PortfolioProject/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Interactive visualizations in Tableau explores purchase patterns, payment preferences, and seasonal trends, offering an intuitive interface to discover key insights and uncover spending habits:
+![Screenshot](https://github.com/slovinskamary/python-for-data-lovers/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-29%20%D0%BE%2020.43.19.png)
+
+
+Interactive visualizations in Tableau explores purchase patterns, offering an intuitive interface to discover key insights and uncover spending habits:
 
 - **Payment Preferences**: Users can compare the popularity of various payment methods interactively.
 - **Seasonal Trends**: The dashboard allows dynamic exploration of how shopping behavior changes across seasons.
